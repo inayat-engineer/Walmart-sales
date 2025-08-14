@@ -1,0 +1,3 @@
+pandas
+pymysql # this will work as adapter
+sqlalchemy create_engine
