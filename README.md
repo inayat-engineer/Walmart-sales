@@ -10,11 +10,11 @@ The project:
 - loads the cleaned dataset into MySQL for SQL-based analysis
 
 Core implementation lives in:
-- `/home/runner/work/Walmart-sales/Walmart-sales/project.ipynb`
+- `project.ipynb`
 
 ## Dataset
-- Raw dataset: `/home/runner/work/Walmart-sales/Walmart-sales/Walmart.csv`
-- Cleaned output: `/home/runner/work/Walmart-sales/Walmart-sales/Walmart_clean_data.csv`
+- Raw dataset: `Walmart.csv`
+- Cleaned output: `Walmart_clean_data.csv`
 
 ## Prerequisites
 - Python 3.8+
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Open the repository root:
    ```bash
-   cd /home/runner/work/Walmart-sales/Walmart-sales
+   cd Walmart-sales
    ```
 2. Start Jupyter:
    ```bash
@@ -63,7 +63,7 @@ If MySQL is not available, you can still run all cleaning and CSV export steps.
 
 ## Repository Structure
 ```text
-/home/runner/work/Walmart-sales/Walmart-sales/
+.
 ├── README.md
 ├── requirements.txt
 ├── project.ipynb
