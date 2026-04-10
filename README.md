@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Open the repository root:
    ```bash
-   cd Walmart-sales
+   cd <repository-name>
    ```
 2. Start Jupyter:
    ```bash
